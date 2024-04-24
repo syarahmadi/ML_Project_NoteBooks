@@ -9,6 +9,8 @@ Welcome to ML_Project_NoteBooks! This repository is dedicated to showcasing mach
 - **PneumoniaDetection_.ipynb**: This project applies deep learning techniques to detect pneumonia from chest X-ray images, demonstrating the power of AI in healthcare.
 
 - **Prosper_Loan_data.ipynb**: Explore a dataset of loans from Prosper to uncover insights and patterns, utilizing data visualization and machine learning techniques.
+- 
+- **Movie_Recommender_System:** Develops a basic recommender system using collaborative filtering with the Python library `surprise`. The goal of this system is to recommend movies to users based on their past preferences and the preferences of other users with similar tastes.
 
 ## Installation
 
